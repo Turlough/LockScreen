@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidLockScreenDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Android Lock Screen Demo</string>
+
+    <string name="instructions">Enter pin or logout</string>
+    <string name="unlock">UNLOCK</string>
+    <string name="title_activity_login_">Login_Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+
+</resources>

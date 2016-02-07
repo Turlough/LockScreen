@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LockScreen.iml" filepath="$PROJECT_DIR$/LockScreen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidLockScreenDemo/androidLockScreenDemo.iml" filepath="$PROJECT_DIR$/androidLockScreenDemo/androidLockScreenDemo.iml" />
+    </modules>
+  </component>
+</project>
